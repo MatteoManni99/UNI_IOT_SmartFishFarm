@@ -1,6 +1,5 @@
 # Smart FishFarm
-In this project I developed a Smart Evironment throught IoT techincs. The use case is an aquaculture system. Obviously a lot of things were simplified.
-I worked with 5 sensors and ContikiNG as OS for the latter. One of them is used as a RPL Border Router of the device network, the other 4 device simulate respectively: temperature (sensor), water quality (sensor), heat pump (actuator), water filter (actuator). The communication protocol involved are MQTT and CoAP. The project is basically divided in 2 part, the sensor network developed in C and the main application developed in Java.
 
+In this project, I developed a smart environment using IoT techniques. The use case is an aquaculture system. Naturally, many things were simplified. I worked with five sensors and used ContikiNG as the operating system for the latter. One of them is utilized as an RPL Border Router for the device network, while the other four devices simulate the following: temperature (sensor), water quality (sensor), heat pump (actuator), and water filter (actuator). The communication protocols involved are MQTT and CoAP. The project is essentially divided into two parts: the sensor network, developed in C, and the main application, developed in Java.
 
-For more details you can check the documentation.
+For more details, you can refer to the documentation.
